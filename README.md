@@ -1,4 +1,4 @@
-Built a movie recommendation system where you can type in movie name and get 10 tailored recommendations for other movies that you might want to watch.  
+Built a movie recommendation system where you can type in movie name and get 10 tailored recommendations for other movies that you might want to watch. The project employs collaborative filtering to generate a recommendation score based on the data.    
 
 STEPS:  
 1. Read in movie data using pandas
